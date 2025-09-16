@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+pandas-ta
+plotly
+python-dotenv
+alpha-vantage
